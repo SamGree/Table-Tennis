@@ -28,9 +28,18 @@ body{
     background-size: 100%;
     margin: 0 auto;
     height: 600px;
-    width: 90%;
-
+    width: 90%;}
+/*fitness-sport-two style it*/
+#fitness-sport-two {
+    height: auto;
+    width: 60%;
+    margin-left: 20%;
+    position: relative;
+    top: 72px;
+    z-index: 2;
 }
+
+
 
 /*footer*/
 footer {
