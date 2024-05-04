@@ -5,7 +5,7 @@
 }
 
 body{
-    background: #cfc1c1;
+    background: #e1d8d8;
 }
 /*style header h1*/
 h1 {
@@ -82,7 +82,6 @@ h2 {font-family: 'Montserrat', sans-serif;}
 
 
 
-
 /*footer*/
 footer {
  width: 90%;
@@ -105,3 +104,4 @@ footer {
     height: 430px; width: 40%; padding: 10px; border-radius: 1px solid #3a3a3a; text-align: center; 
     font-size: 100%; line-height: 20px; color: #3a3a3a; overflow: auto;
 }
+
