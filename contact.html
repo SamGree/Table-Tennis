@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,9 +13,11 @@
     <title>Table Tennis</title>
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
+
 <body>
     <!--header-->
-    <header><h1>Table Tennis <i class="fa-solid fa-table-tennis-paddle-ball"></i></h1>
+    <header>
+        <h1>Table Tennis <i class="fa-solid fa-table-tennis-paddle-ball"></i></h1>
         <nav>
             <ul id="navigation">
                 <li><a href="index.html">Home</a></li>
@@ -22,18 +25,30 @@
                 <li><a href="fotos.html">Fotos</a></li>
             </ul>
         </nav>
-    </header>   
-    
+    </header>
+
     <!---->
     <section id="page-contact">
         <div id="top-foto">
-            
-
         </div>
     </section>
-    
-    
-    
+    <!--form for contact page-->
+    <section id="contact">
+    <form form id="contact-form" method="POST" action="https://formdump.codeinstitute.net">
+        <h2>Join The Movement | Write To Us</h2>   
+        <label  for="name">Name</label>
+        <input class="ten" type="text" id="name" name="name" placeholder="Name" required><br>
+        <labe for="email">Email</labe>
+        <input class="ten" type="email" id="email" name="email" placeholder="Email-address" required>
+        <div><br>
+            <textarea name="field-massage" id="field-massage" cols="50" rows="8" placeholder="Type your message here"></textarea><br>
+            <label for="field-massage">What can we do to help?</label><br>
+            <button type="submit" class="join-button">submit</button>
+        </div>
+</section>
+
+
+
     <footer>
         <ul id="social-media">
             <li><a href="https://www.facebook.com" target="_blank" rel="noopener"
@@ -51,7 +66,8 @@
         </ul>
     </footer>
     <!--font link for kit-->
-     <script src="https://kit.fontawesome.com/e9b15a29fc.js" crossorigin="anonymous"></script>
-    
+    <script src="https://kit.fontawesome.com/e9b15a29fc.js" crossorigin="anonymous"></script>
+
 </body>
+
 </html>
