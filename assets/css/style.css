@@ -38,7 +38,8 @@ h2 {font-family: 'Montserrat', sans-serif;}
     background-size: 100%;
     margin: 0 auto;
     height: 600px;
-    width: 90%;}
+    width: 90%;
+}
 /*fitness-sport-two style it*/
 #fitness {width: 90%;
           height: 450px;
@@ -91,7 +92,7 @@ footer {
 #social-media {
     text-align: center;
 }
-#social-media > li { font-size: 200%; display: inline-block; }
+#social-media > li { font-size: 200%; display: inline-block;}
 #social-media i {  padding: 100px; color: #3a3a3a; text-decoration: none; }
 #social-media i:hover{ color: rgb(100, 80, 255);}
 /*style for fintess*/
@@ -105,3 +106,112 @@ footer {
     font-size: 100%; line-height: 20px; color: #3a3a3a; overflow: auto;
 }
 
+/*Medium screen from 1200px wide and down exmple smart phone*/
+@media screen and (max-width: 1200px) {  
+    #fitness { 
+        width: 90%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+        padding: 0;
+    } 
+    #fitness-sport {
+        height: auto;
+        width: auto;
+        padding: 20px;
+        text-align: center;
+        font-size: 105%;
+        line-height: 22px;
+        border: none;  
+    }
+
+    
+}
+
+/*Medium screen size from 950px wide and down*/
+@media screen and (max-width: 950px) {
+    #hero-tennis {
+        width: 90%;
+        height: 420px;
+    }
+
+
+    
+}
+
+/*Medium screen size from 800px wide and down ex.smart phone*/
+@media screen and (max-width:800px) {
+    #navigation {
+        width: 100%;
+        text-align: center;
+        height: 55px;
+    }
+    #navigation > li{
+        font-size: 120%;
+    }
+    /*hero img*/
+    #hero-tennis {
+        width: 100%;
+        height: 400px;
+    }
+    #fitness { 
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        display: block;
+        padding: 0;
+    }
+    #fitness-sport {
+        height: auto;
+        width: auto;
+        padding: 20px;
+        text-align: center;
+        font-size: 105%;
+        line-height: 22px;
+        border: none;
+        margin: 0;
+    }
+    #fitness-sport-two {
+        width: 100%;
+        height: auto;
+    }
+     /* Footer Elements */
+     #social-media i {
+        font-size: 120%;
+        padding: 10px;
+    }
+
+  
+}
+
+/**/
+@media screen and (max-width: 600px) {
+    nav{
+        padding: 10px;
+    }
+    #navigation{
+        width: 100%;
+        text-align: center;
+        height: 55px;
+    }
+    #navigation > li{
+        font-size: 110%;
+        line-height: 30px;
+    }
+    #hero-tennis{
+        width: 200%;
+        height: 230px;
+        overflow: hidden;
+        padding: 0; }
+
+    
+}
+
+/*small size screen from 320px wide and down*/
+@media screen and (max-width: 320px) {
+    /*hero-tennis img first page*/
+    #hero-tennis {
+        height: 200px;
+    }
+    
+}
