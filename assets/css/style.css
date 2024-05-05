@@ -296,10 +296,10 @@ footer {
     }
 
     #navigation {
-        width: 235%;
+        width: 400%;
         text-align: center;
         height: 45px;
-        margin-left: 5%;
+        margin-left: 15%;
     }
 
     #navigation>li {
@@ -308,9 +308,9 @@ footer {
     }
 
     #hero-tennis {
-        width: 240%;
-        height: 400px;
-        overflow: hidden;
+        width: 400%;
+        height: 700px;
+        
     }
 
     h1 {
@@ -319,7 +319,7 @@ footer {
         color: #3a3a3a;
         margin-top: 5%;
         margin-left: 15%;
-        width: 210%;
+        width: 400%;
         text-align: center;
     }
 
@@ -362,24 +362,38 @@ footer {
 
     /*hero-tennis img first page*/
     #hero-tennis {
-        height: 200px;
-        width: 215%
+        height: 400px;
+        width: 400%
     }
 
     footer {
         width: 215%;
         height: 70px;
     }
+    #social-media {
+        text-align: center;
+        width: 180%;
+    }
 
     #navigation {
-        width: 220%;
+        width: 400%;
         text-align: center;
         height: 40px;
-        font-size: 20px;
+        font-size: 22px;
+    }
+    #fitness-sport {
+        height: auto;
+        width: 175%;
+        padding: 45px;
+        text-align: center;
+        font-size: 125%;
+        line-height: 30px;
+        border: none;
+        margin: 0;
     }
 
     #fitness-sport-two img {
-        width: 215%;
+        width: 190%;
         height: 450px;
     }
 
@@ -388,7 +402,7 @@ footer {
         font-size: 88px;
         color: #3a3a3a;
         margin-top: 12%;
-        margin-left: 5%;
-        width: 210%;
+        margin-left: 10%;
+        width: 400%;
     }
 }
