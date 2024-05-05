@@ -1,37 +1,52 @@
-*{
+* {
     padding: 0;
     border: 0;
     margin: 0;
 }
 
-body{
+body {
     background: #e1d8d8;
 }
+
 /*style header h1*/
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 120px;
     color: #3a3a3a;
-    margin-top: 10px; margin-left: 5%;
+    margin-top: 5%;
+    margin-left: 5%;
 }
-h2 {font-family: 'Montserrat', sans-serif;}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
 
 /*navbar style*/
 #navigation {
     width: 90%;
     height: 75px;
     text-align: right;
-    margin: 0 auto; z-index: 2;
+    margin: 0 auto;
+    z-index: 2;
 }
-#navigation > li { display: inline; 
-       font-family: Arial, Helvetica, sans-serif; font-size: 120%; margin: 5px; line-height:50px;
+
+#navigation>li {
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 120%;
+    margin: 5px;
+    line-height: 50px;
 }
+
 #navigation a {
-    text-decoration: none; color: #3a3a3a;
+    text-decoration: none;
+    color: #3a3a3a;
 }
+
 #navigation a:hover {
     color: blue;
 }
+
 /*hero-tennis*/
 #hero-tennis {
     background: url(../images/tennis2.jpg) no-repeat center center;
@@ -40,17 +55,19 @@ h2 {font-family: 'Montserrat', sans-serif;}
     height: 600px;
     width: 90%;
 }
+
 /*fitness-sport-two style it*/
-#fitness {width: 90%;
-          height: 450px;
-          margin: 0 auto;   
-          display: flex;     
-          justify-content: space-between;  
+#fitness {
+    width: 90%;
+    height: 450px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
 }
 
 #fitness-sport {
     border: 1px solid black;
-    width: 40%; 
+    width: 40%;
     height: 430px;
     text-align: center;
     font-size: 105%;
@@ -60,10 +77,12 @@ h2 {font-family: 'Montserrat', sans-serif;}
     overflow: auto;
 
 }
-#fitness-sport-two img{
-   width: auto;
-   height: 450px;
+
+#fitness-sport-two img {
+    width: auto;
+    height: 450px;
 }
+
 /*contact page style*/
 #page-contact {
     background: url(../images/p5.jpg) no-repeat center center;
@@ -72,49 +91,78 @@ h2 {font-family: 'Montserrat', sans-serif;}
     height: 300px;
     width: 80%;
 }
+
 /*form style*/
-#contact-form { text-align: center;
+#contact-form {
+    text-align: center;
     margin-top: 10px;
 }
+
 /*input style*/
 .ten {
-    border-radius: 3px; margin-bottom: 5px;
+    border-radius: 3px;
+    margin-bottom: 5px;
 }
 
 
 
 /*footer*/
 footer {
- width: 90%;
- height: 75px;
- margin: 0 auto;
+    width: 90%;
+    height: 75px;
+    margin: 0 auto;
 }
+
 #social-media {
     text-align: center;
 }
-#social-media > li { font-size: 200%; display: inline-block;}
-#social-media i {  padding: 100px; color: #3a3a3a; text-decoration: none; }
-#social-media i:hover{ color: rgb(100, 80, 255);}
+
+#social-media>li {
+    font-size: 200%;
+    display: inline-block;
+}
+
+#social-media i {
+    padding: 100px;
+    color: #3a3a3a;
+    text-decoration: none;
+}
+
+#social-media i:hover {
+    color: rgb(100, 80, 255);
+}
+
 /*style for fintess*/
 #fitness {
     width: 90%;
     height: 450px;
-    margin: 0 auto; display: flex; justify-content: space-between;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
 }
+
 #fitness-sport {
-    height: 430px; width: 40%; padding: 10px; border-radius: 1px solid #3a3a3a; text-align: center; 
-    font-size: 100%; line-height: 20px; color: #3a3a3a; overflow: auto;
+    height: 430px;
+    width: 40%;
+    padding: 10px;
+    border-radius: 1px solid #3a3a3a;
+    text-align: center;
+    font-size: 100%;
+    line-height: 20px;
+    color: #3a3a3a;
+    overflow: auto;
 }
 
 /*Medium screen from 1200px wide and down exmple smart phone*/
-@media screen and (max-width: 1200px) {  
-    #fitness { 
+@media screen and (max-width: 1200px) {
+    #fitness {
         width: 90%;
         height: auto;
         margin: 0 auto;
         display: block;
         padding: 0;
-    } 
+    }
+
     #fitness-sport {
         height: auto;
         width: auto;
@@ -122,10 +170,10 @@ footer {
         text-align: center;
         font-size: 105%;
         line-height: 22px;
-        border: none;  
+        border: none;
     }
 
-    
+
 }
 
 /*Medium screen size from 950px wide and down*/
@@ -136,34 +184,46 @@ footer {
     }
 
 
-    
+
 }
 
 /*Medium screen size from 800px wide and down ex.smart phone*/
 @media screen and (max-width:800px) {
     #navigation {
-        width: 100%;
+        width: 210%;
         text-align: center;
-        height: 55px;
+        height: 55px; font-size: 22px;
     }
-    #navigation > li{
+
+    #navigation>li {
         font-size: 120%;
     }
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 120px;
+        color: #3a3a3a;
+        margin-top: 5%;
+        margin-left: 45%; width: 160%;
+    }
+
     /*hero img*/
     #hero-tennis {
-        width: 100%;
-        height: 400px;
+        width: 205%;
+        height: 500px;    
+            
     }
-    #fitness { 
+
+    #fitness {
         width: 100%;
         height: auto;
         margin: 0 auto;
         display: block;
         padding: 0;
     }
+
     #fitness-sport {
         height: auto;
-        width: auto;
+        width: 200%;
         padding: 20px;
         text-align: center;
         font-size: 105%;
@@ -171,47 +231,115 @@ footer {
         border: none;
         margin: 0;
     }
+
     #fitness-sport-two {
         width: 100%;
         height: auto;
     }
-     /* Footer Elements */
-     #social-media i {
+
+    /* Footer Elements */
+    #social-media i {
         font-size: 120%;
         padding: 10px;
     }
 
-  
+
 }
 
 /**/
 @media screen and (max-width: 600px) {
-    nav{
+    nav {
         padding: 10px;
     }
-    #navigation{
-        width: 100%;
-        text-align: center;
-        height: 55px;
-    }
-    #navigation > li{
-        font-size: 110%;
-        line-height: 30px;
-    }
-    #hero-tennis{
-        width: 200%;
-        height: 230px;
-        overflow: hidden;
-        padding: 0; }
 
-    
+    #navigation {
+        width: 235%;
+        text-align: center;
+        height: 45px;
+        margin-left: 5%;
+    }
+
+    #navigation>li {
+        font-size: 175%;
+        line-height: 4px;
+    }
+
+    #hero-tennis {
+        width: 240%;
+        height: 400px;
+        overflow: hidden;
+    }
+
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 120px;
+        color: #3a3a3a;
+        margin-top: 5%;
+        margin-left: 15%;
+        width: 210%;
+        text-align: center;
+    }
+
+    #fitness-sport {
+        height: auto;
+        width: 232%;
+        padding: 20px;
+        text-align: center;
+        font-size: 125%;
+        line-height: 30px;
+        border: none;
+        margin: 0;
+    }
+
+    #fitness-sport>p {
+        font-size: 30px;
+        padding: 5px;
+        border: 5px;
+    }
+
+    #fitness-sport-two img {
+        width: 240%;
+        height: 650px;
+    }
+
+    #social-media {
+        text-align: center;
+        width: 250%;
+    }
 }
 
 /*small size screen from 320px wide and down*/
 @media screen and (max-width: 320px) {
+
     /*hero-tennis img first page*/
     #hero-tennis {
         height: 200px;
+        width: 215%
     }
-    
+
+    footer {
+        width: 215%;
+        height: 70px;
+    }
+
+    #navigation {
+        width: 220%;
+        text-align: center;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    #fitness-sport-two img {
+        width: 215%;
+        height: 450px;
+    }
+
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 88px;
+        color: #3a3a3a;
+        margin-top: 12%;
+        margin-left: 5%;
+        width: 210%;
+    }
 }
