@@ -208,7 +208,7 @@ footer {
 
     /*hero img*/
     #hero-tennis {
-        width: 205%;
+        width: 210%;
         height: 500px;    
             
     }
@@ -224,20 +224,26 @@ footer {
     #fitness-sport {
         height: auto;
         width: 200%;
-        padding: 20px;
+        padding: 35px;
         text-align: center;
         font-size: 105%;
         line-height: 22px;
         border: none;
-        margin: 0;
+        margin: 5px;
+    }
+    #fitness-sport > p {
+        font-size: 10px;
     }
 
-    #fitness-sport-two {
-        width: 100%;
-        height: auto;
+    #fitness-sport-two img {
+        width: 210%;
+        height: 600px;
     }
 
     /* Footer Elements */
+   #social-media  {width: 200%;
+    margin-left: 10%;
+   }
     #social-media i {
         font-size: 120%;
         padding: 10px;
@@ -291,7 +297,7 @@ footer {
         margin: 0;
     }
 
-    #fitness-sport>p {
+    #fitness-sport > p {
         font-size: 30px;
         padding: 5px;
         border: 5px;
@@ -300,11 +306,14 @@ footer {
     #fitness-sport-two img {
         width: 240%;
         height: 650px;
+        display: flex;
+        justify-content: space-evenly;
+}
     }
 
     #social-media {
         text-align: center;
-        width: 250%;
+        width: 250%; 
     }
 }
 
