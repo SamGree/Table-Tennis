@@ -77,9 +77,13 @@ h2 {
     overflow: auto;
 
 }
+#fitness-sport > p {
+    font-family: arial;
+    font-size: 1rem;
+}
 
 #fitness-sport-two img {
-    width: auto;
+    width: 100%;
     height: 450px;
 }
 
@@ -179,9 +183,36 @@ footer {
 /*Medium screen size from 950px wide and down*/
 @media screen and (max-width: 950px) {
     #hero-tennis {
-        width: 90%;
-        height: 420px;
+        width: 210%;
+        height: 600px;
     }
+
+    h1 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 120px;
+        color: #3a3a3a;
+        margin-top: 5%;
+        margin-left: 25%;
+        width: 160%;
+        text-align: center;
+    }
+    #navigation {
+        width: 125%;
+        height: 75px;
+        text-align: right;
+        margin: 0 auto;
+        font-size: 25px;
+}
+#fitness {
+    width: 210%;
+    height: auto;
+    margin: 0 auto;
+    display: block;
+}
+#social-media {
+    width: 200%;     text-align: center; margin-left: 40px;
+}
+}
 
 
 
@@ -192,25 +223,28 @@ footer {
     #navigation {
         width: 210%;
         text-align: center;
-        height: 55px; font-size: 22px;
+        height: 55px;
+        font-size: 22px;
     }
 
     #navigation>li {
         font-size: 120%;
     }
+
     h1 {
         font-family: 'Montserrat', sans-serif;
         font-size: 120px;
         color: #3a3a3a;
         margin-top: 5%;
-        margin-left: 45%; width: 160%;
+        margin-left: 45%;
+        width: 160%;
     }
 
     /*hero img*/
     #hero-tennis {
         width: 210%;
-        height: 500px;    
-            
+        height: 500px;
+
     }
 
     #fitness {
@@ -231,7 +265,8 @@ footer {
         border: none;
         margin: 5px;
     }
-    #fitness-sport > p {
+
+    #fitness-sport>p {
         font-size: 10px;
     }
 
@@ -241,9 +276,11 @@ footer {
     }
 
     /* Footer Elements */
-   #social-media  {width: 200%;
-    margin-left: 10%;
-   }
+    #social-media {
+        width: 200%;
+        margin-left: 10%;
+    }
+
     #social-media i {
         font-size: 120%;
         padding: 10px;
@@ -297,7 +334,7 @@ footer {
         margin: 0;
     }
 
-    #fitness-sport > p {
+    #fitness-sport>p {
         font-size: 30px;
         padding: 5px;
         border: 5px;
@@ -306,14 +343,17 @@ footer {
     #fitness-sport-two img {
         width: 240%;
         height: 650px;
-        display: flex;
-        justify-content: space-evenly;
-}
+
     }
 
     #social-media {
         text-align: center;
-        width: 250%; 
+        width: 250%;
+    }
+
+    #social-media i {
+        display: flex;
+        justify-content: space-evenly;
     }
 }
 
