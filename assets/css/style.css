@@ -48,7 +48,7 @@ h3 {
 
 }
 
-.navigation > li {
+.navigation>li {
     display: inline;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 50px;
@@ -101,7 +101,8 @@ h3 {
     justify-content: center;
     margin: auto auto;
 }
-.text > p {
+
+.text>p {
     text-align: justify;
 }
 
@@ -124,7 +125,7 @@ p>span {
     align-items: center;
 }
 
-.days > p{
+.days>p {
     width: 98%;
     height: 27px;
     justify-content: center;
@@ -168,11 +169,12 @@ p>span {
 /*form style*/
 .contact-form {
     text-align: center;
- }
- .contact-form h2 {
+}
+
+.contact-form h2 {
     font-size: 0.7em;
     padding-top: 4px;
- }
+}
 
 /*style for fotos*/
 #fotos {
@@ -194,18 +196,21 @@ p>span {
     margin-bottom: 5px;
     width: 35%;
 }
+
 /*style for writing text space*/
 .textarea {
     width: 50%;
     height: 4em;
 }
- .join-button { 
-        border-radius: 2px;
-    }
+
+.join-button {
+    border-radius: 2px;
+}
+
 .join-button i:hover {
     background-color: rgb(118, 62, 62);
 }
-    
+
 
 
 /*footer*/
@@ -219,7 +224,7 @@ footer {
     text-align: center;
 }
 
-#social-media > li {
+#social-media>li {
     font-size: 1.5em;
     display: inline-block;
 }
@@ -246,24 +251,28 @@ footer {
         text-align: center;
         margin-top: 2%;
     }
+
     .navigation {
         width: 100%;
         text-align: center;
         height: 38px;
         font-size: 13px;
+        gap: 2em;
     }
+
     /*hero-tennis img first page*/
     #hero-tennis {
         height: 130px;
         width: 100%
     }
+
     h2 {
         font-family: 'Montserrat', sans-serif;
         margin-bottom: 5px;
         font-size: 1.2em;
         margin-top: 5px;
     }
-    
+
     .days>p {
         width: 97%;
         height: 24px;
@@ -271,23 +280,27 @@ footer {
         flex-wrap: wrap;
         border: 1px solid #3a3a3a;
     }
+
     p>span {
         font-size: 1.1em;
-        font-weight: bold;}
-        
-        #fitness-sport-two {
-            background-size: 100%;
-            max-height: 13rem;
-           }
-           .ten {
-            width: 37%;
-        }
-        .textarea {
-            width: 50%;
-            height: 4em;
-        }
-  
-        footer {
+        font-weight: bold;
+    }
+
+    #fitness-sport-two {
+        background-size: 100%;
+        max-height: 13rem;
+    }
+
+    .ten {
+        width: 37%;
+    }
+
+    .textarea {
+        width: 50%;
+        height: 4em;
+    }
+
+    footer {
         width: 90%;
         height: 75px;
         margin: 0 auto;
@@ -297,14 +310,13 @@ footer {
         text-align: center;
     }
 
-    #social-media> li {
+    #social-media>li {
         padding: 5px;
-    }   
+    }
+
     #page-contact {
-        background: url(../images/p5.jpg) no-repeat center center;
         background-size: 100%;
-        height: 20em;
-        width: 100%;
+        height: 14em;
     }
 }
 
@@ -312,19 +324,20 @@ footer {
 @media screen and (min-width: 481px) {
     h1 {
         font-size: 3.2em;
-        margin-top: 3%;             
+        margin-top: 3%;
     }
 
     .navigation {
-       height: 8px;
-        }
-    
+        height: 10px;
+        gap: 4.2rem;
+    }
+
 
     .navigation>li {
         font-size: 1em;
         line-height: 4px;
     }
-    
+
     hr {
         height: 1px;
         background-color: #3a3a3a;
@@ -334,7 +347,7 @@ footer {
     #hero-tennis {
         min-height: 220px;
     }
-   
+
     h2 {
         margin-bottom: 9px;
         font-size: 0.9em;
@@ -342,19 +355,17 @@ footer {
     }
 
     #fitness-sport {
-        height: auto;
-        width: 100%;
         padding: 20px;
         text-align: center;
-        font-size: 2em;
-        line-height: 30px;
-       
+        font-size: 1.5em;
+
     }
 
     #fitness-sport-two {
         max-height: 20rem;
     }
-    .text > p {
+
+    .text>p {
         text-wrap: stable;
     }
 
@@ -363,111 +374,104 @@ footer {
         padding: 5px;
         border: 5px;
     }
-    .days > p {
+
+    .days>p {
         height: 30px;
     }
-    p > span {
+
+    p>span {
         font-size: 0.8em;
     }
-   
+
 
     #social-media {
         text-align: center;
         width: 100%;
     }
-    #social-media > li {
+
+    #social-media>li {
         font-size: 3em;
         display: inline-block;
         padding: 15px;
     }
+
     .contact-form h2 {
         font-size: 1em;
         padding-top: 4px;
     }
+
     #page-contact {
-       background-size: 100%;
-    
+        background-size: 100%;
+        height: 20em;
     }
+
     .ten {
-        width: 26%;
+        width: 20%;
     }
+
     .textarea {
-        width: 35%;
+        width: 26%;
     }
 }
 
 /*Medium screen size from 768px wide and up ex.smart phone*/
 @media screen and (min-width: 768px) {
-    h1 {
-        font-size: 90px;
+
+    /*hero img*/
+    #hero-tennis {
         width: 100%;
     }
 
     .navigation {
-            
-            text-align: center;
-            height: 32px;
-            font-size: 30px;
-        
+        margin-top: 10px;
+        gap: 10rem;
     }
 
-    /*hero img*/
-    #hero-tennis {
-        width: 100%;     
-    }
-
-   
 
     #fitness-sport {
-        /* height: auto; */
-        /* width: 100%; */
-        /* padding: 35px; */
-        /* text-align: center; */
-        /* font-size: 2em; */
         line-height: 30px;
-        /* margin: 5px; */
     }
+
     #fitness-sport-two {
         max-height: 32rem;
-        
+
     }
+
     #fitness-sport>p {
         font-size: 10px;
     }
 
-   
-
     /* Footer Elements */
     #social-media {
         width: 100%;
-       
+
     }
 
     #social-media i {
         font-size: 100%;
         padding: 10px;
     }
+
+    #page-contact {
+        height: 20em;
+    }
 }
 
 /*Medium screen size min-width 992px wide and up*/
 @media screen and (min-width: 992px) {
     #hero-tennis {
-      height: 375px;
+        height: 375px;
     }
 
     h1 {
-        
-        font-size: 120px;
-         }
-
-    
-
-    #fitness {
-        /* width: 100%; */
-        /* height: auto; */
-        /* margin: 0 auto; */
-        /* display: block; */
+        font-size: 80px;
     }
+
+    .navigation>li {
+        font-size: 1.5em;
+        line-height: 4px;
+    }
+
     #fitness-sport-two {
         max-height: 40rem;
     }
@@ -475,34 +479,41 @@ footer {
     #social-media {
         width: 100%;
         text-align: center;
-       
+
     }
+
     .days {
         width: 50%;
         margin: 13px auto;
     }
-    p > span {
+
+    p>span {
         font-size: 0.8em;
     }
-    
+
+    #page-contact {
+        height: 25em;
+    }
+
 }
 
 /*Medium screen min-width 1200px wide and up example smart phone*/
 @media screen and (min-width: 1200px) {
+    h1 {
+        font-size: 110px;
+    }
+
     .navigation {
-        width: 90%;
-        height: 40px;
-        text-align: right;
-        margin: 0 auto;
-        z-index: 2;
-        justify-content: center;
-        display: flex;
-        gap: 10rem; 
-}
-.navigation>li {
-    font-size: 1em;
-    line-height: 4px;
-}
+        height: 24px;
+        gap: 10rem;
+        font-size: 27px;
+    }
+
+    .navigation>li {
+        font-size: 1em;
+        line-height: 4px;
+    }
+
     #fitness {
         width: 90%;
         height: auto;
@@ -520,12 +531,13 @@ footer {
         line-height: 22px;
 
     }
+
     h2 {
         margin-bottom: 9px;
-}
+    }
 
-.days {
-    width: 25%;
-    margin: 13px auto;
-}
+    .days {
+        width: 25%;
+        margin: 13px auto;
+    }
 }
