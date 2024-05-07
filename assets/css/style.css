@@ -48,7 +48,7 @@ h3 {
 
 }
 
-.navigation>li {
+.navigation > li {
     display: inline;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 50px;
@@ -157,20 +157,21 @@ p>span {
     height: 196px;
 }
 
-/*contact page style*/
+/*contact us page style third page*/
 #page-contact {
     background: url(../images/p5.jpg) no-repeat center center;
     background-size: 100%;
-    margin: 0 auto;
-    height: 300px;
+    height: 156px;
     width: 100%;
 }
 
 /*form style*/
-#contact-form {
+.contact-form {
     text-align: center;
-    margin-top: 10px;
-}
+ }
+ .contact-form h2 {
+    font-size: 0.7em;
+ }
 
 /*style for fotos*/
 #fotos {
@@ -190,7 +191,18 @@ p>span {
 .ten {
     border-radius: 3px;
     margin-bottom: 5px;
+    width: 34%;
 }
+/**/
+.textarea {
+    width: 50%;
+    height: 5em;
+}
+ .join-button {
+        width: 29%;
+        border-radius: 2px;
+    }
+
 
 /*footer*/
 footer {
