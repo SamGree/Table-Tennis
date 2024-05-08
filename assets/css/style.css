@@ -494,6 +494,22 @@ footer {
     #page-contact {
         height: 25em;
     }
+    #contact-title {
+        text-align: center;
+    }
+    .hidding-text {
+        display: none;
+    }
+    #fotos {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap-reverse;
+    
+    }
+    #fotos img {
+
+        width: 25%;
+    }
 
 }
 
