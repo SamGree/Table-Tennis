@@ -138,7 +138,7 @@ p>span {
 
 #fitness-sport-two {
     object-fit: scale-down;
-    background: url(../images/p1.webp) no-repeat center center;
+    background: url(../images/training-time.jpg) no-repeat center center;
     background-size: 100%;
     margin: 0 auto;
     max-height: 9rem;
@@ -455,6 +455,7 @@ footer {
     #contact-title {
         font-size: 1.5em;
     }
+
     .textarea {
         width: 33%;
     }
@@ -509,13 +510,16 @@ footer {
     p>span {
         font-size: 0.8em;
     }
-  /*style for contact page*/
+
+    /*style for contact page*/
     #page-contact {
         height: 25em;
     }
+
     #contact-title {
         font-size: 2em;
     }
+
     .textarea {
         width: 32%;
     }
