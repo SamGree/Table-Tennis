@@ -4,13 +4,6 @@
     margin: 0;
 }
 
-hr {
-    height: 1px;
-    /* Set the height of the line */
-    background-color: #3a3a3a;
-    margin: 2px auto;
-}
-
 body {
     background: #E1D8D8;
 }
@@ -24,6 +17,14 @@ h1 {
     text-align: center;
     margin-top: 5%;
 }
+
+hr {
+    height: 1px;
+    /* Set the height of the line */
+    background-color: #3a3a3a;
+    margin: 2px auto;
+}
+
 
 h2 {
     font-family: 'Montserrat', sans-serif;
@@ -166,15 +167,22 @@ p>span {
     width: 100%;
 }
 
+.hidding-text {
+    display: none;
+}
+
 /*form style*/
 .contact-form {
     text-align: center;
 }
 
-.contact-form h2 {
+#contact-title {
+    text-align: center;
     font-size: 0.7em;
     padding-top: 4px;
 }
+
+
 
 /*style for fotos*/
 #fotos {
@@ -291,6 +299,12 @@ footer {
         max-height: 13rem;
     }
 
+    #contact-title {
+        text-align: center;
+        font-size: 0.9em;
+        padding-top: 4px;
+    }
+
     .ten {
         width: 37%;
     }
@@ -395,10 +409,6 @@ footer {
         padding: 15px;
     }
 
-    .contact-form h2 {
-        font-size: 1em;
-        padding-top: 4px;
-    }
 
     #page-contact {
         background-size: 100%;
@@ -406,11 +416,11 @@ footer {
     }
 
     .ten {
-        width: 20%;
+        width: 27%;
     }
 
     .textarea {
-        width: 26%;
+        width: 36%;
     }
 }
 
@@ -441,6 +451,14 @@ footer {
         font-size: 10px;
     }
 
+    /*fotos page*/
+    #contact-title {
+        font-size: 1.5em;
+    }
+    .textarea {
+        width: 33%;
+    }
+
     /* Footer Elements */
     #social-media {
         width: 100%;
@@ -455,6 +473,7 @@ footer {
     #page-contact {
         height: 20em;
     }
+
 }
 
 /*Medium screen size min-width 992px wide and up*/
@@ -490,22 +509,25 @@ footer {
     p>span {
         font-size: 0.8em;
     }
-
+  /*style for contact page*/
     #page-contact {
         height: 25em;
     }
     #contact-title {
-        text-align: center;
+        font-size: 2em;
     }
-    .hidding-text {
-        display: none;
+    .textarea {
+        width: 32%;
     }
+
+
     #fotos {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap-reverse;
-    
+
     }
+
     #fotos img {
 
         width: 25%;
