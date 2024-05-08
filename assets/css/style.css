@@ -5,14 +5,14 @@
 }
 
 body {
-    background: #E1D8D8;
+    background: #ffffff;
 }
 
 /*style header h1*/
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5em;
-    color: #3A3A3A;
+    color: #3a3a3a;
     width: 100%;
     text-align: center;
     margin-top: 5%;
@@ -57,7 +57,7 @@ h3 {
 
 .navigation a {
     text-decoration: none;
-    color: #3A3A3A;
+    color: #3a3a3a;
 }
 
 .navigation a:hover {
@@ -91,7 +91,7 @@ h3 {
     text-align: center;
     font-size: 105%;
     line-height: 1.3em;
-    color: #3A3A3A;
+    color: #3a3a3a;
     overflow: hidden;
     margin-bottom: 10px;
 }
@@ -216,7 +216,7 @@ p>span {
 }
 
 .join-button i:hover {
-    background-color: rgb(118, 62, 62);
+    background-color: rgb(163, 120, 120);
 }
 
 
@@ -239,12 +239,12 @@ footer {
 
 #social-media i {
     padding: 10px;
-    color: #3A3A3A;
+    color: #3a3a3a;
     text-decoration: none;
 }
 
 #social-media i:hover {
-    color: rgb(100, 80, 255);
+    color: rgb(101, 84, 226);
 }
 
 
@@ -254,7 +254,7 @@ footer {
     h1 {
         font-family: 'Montserrat', sans-serif;
         font-size: 2.2em;
-        color: #3A3A3A;
+        color: #3a3a3a;
         width: 100%;
         text-align: center;
         margin-top: 2%;
