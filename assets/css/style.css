@@ -65,7 +65,7 @@ h3 {
 }
 
 .navigation a:hover {
-    color: rgb(48, 48, 203);
+    color: rgb(228, 125, 236);
 }
 
 /*hero-tennis*/
@@ -180,11 +180,15 @@ p>span {
     text-align: center;
     background: rgb(124, 171, 187);
     padding-top: 7px;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1.5px;
 }
 
 #contact-title {
     text-align: center;
-    font-size: 0.7em;
+    font-size: 0.8em;
     padding-top: 4px;
 }
 
@@ -221,10 +225,11 @@ p>span {
 .join-button {
     border-radius: 2px;
     width: 20%;
+    margin-top: 4px;
 }
 
-.join-button i:hover {
-    background-color: rgb(163, 120, 120);
+.join-button:hover {
+    background-color: rgb(201, 157, 225);
 }
 
 
@@ -399,7 +404,12 @@ footer {
     p>span {
         font-size: 0.8em;
     }
-    /*contact us page style the botton*/
+    /*contact us page style for form and botton*/
+    .contact-form {
+    font-size: 12px;
+
+    }
+
     .join-button {
         padding: 7px 5px;
        
@@ -545,6 +555,9 @@ footer {
             padding: 8px;
         
     }
+    .contact-form {
+        font-size: 18px;
+    }
 
      .textarea {
         padding: 10px;
@@ -608,5 +621,9 @@ footer {
     .days {
         width: 25%;
         margin: 13px auto;
+    }
+    /*contact us-page*/
+    #contact-title {
+        font-size: 2.5em;
     }
 }
