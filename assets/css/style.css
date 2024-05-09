@@ -207,13 +207,13 @@ p>span {
 /*input style*/
 .ten {
     border-radius: 3px;
-    margin-bottom: 5px;
-    width: 35%;
+    margin-bottom: 6px;
+    padding: 2px 3px;
 }
 
 /*style for writing text space*/
 .textarea {
-    width: 50%;
+    width: 90%;
     height: 4em;
     border-radius: 2px;
 }
@@ -401,8 +401,8 @@ footer {
     }
     /*contact us page style the botton*/
     .join-button {
-        
-        width: 15%;
+        padding: 7px 5px;
+       
     }
 
 
@@ -447,8 +447,7 @@ footer {
     .navigation {
         margin-top: 10px;
         gap: 10rem;
-    }
-
+     }
 
     #fitness-sport {
         line-height: 30px;
@@ -542,11 +541,13 @@ footer {
         font-size: 2em;
     }
     .ten {
-        width: 10%;
+            width: 18%;
+            padding: 8px;
+        
     }
 
      .textarea {
-        width: 17%;
+        padding: 10px;
     }
 
 
