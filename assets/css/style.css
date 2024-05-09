@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #6b78401f;
+    background: #ffffff;
 }
 
 /*style header h1*/
@@ -156,6 +156,8 @@ p>span {
 #map-wrapper {
     width: 100%;
     height: 200px;
+    margin-top: 8px;
+
 }
 
 #map {
@@ -412,7 +414,7 @@ footer {
 
     .join-button {
         padding: 7px 5px;
-       
+        font-size: 1.5em;
     }
 
 
@@ -448,15 +450,18 @@ footer {
     /*hero img*/
     h1 {
         text-align: left;
-        margin-left: 4px;
     }
+    
+    
+     
+    
     #hero-tennis {
         width: 100%;
     }
 
     .navigation {
         margin-top: 10px;
-        gap: 10rem;
+        gap: 6rem;
      }
 
     #fitness-sport {
@@ -509,8 +514,7 @@ footer {
 
     h1 {
         font-size: 80px;
-        margin-left: 15px;
-    }
+        }
 
     .navigation>li {
         font-size: 1.5em;
@@ -562,6 +566,7 @@ footer {
      .textarea {
         padding: 10px;
     }
+   
 
 
     #fotos {
@@ -582,7 +587,6 @@ footer {
 @media screen and (min-width: 1200px) {
     h1 {
         font-size: 110px;
-        margin-left: 20px;
     }
 
     .navigation {
