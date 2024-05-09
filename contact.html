@@ -21,7 +21,7 @@
             <h1 class="table-tennis">Table Tennis Pro</h1>
             <nav>
                 <ul class="navigation">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.html" class="under-line">Home</a></li>
                     <li><a href="contact.html">Contact us</a></li>
                     <li><a href="fotos.html">Gallery</a></li>
                 </ul>
@@ -44,14 +44,21 @@
                 <input class="ten" type="text" id="name" name="name" placeholder="Name" required><br>
                 <label for="email">Email</label>
                 <input class="ten" type="email" id="email" name="email" placeholder="Email-address" required><br>
-                <div>
+                <label for="field-massage">Additional message</label><br>
                     <textarea class="textarea" name="field-massage" id="field-massage" cols="50" rows="8"
                         placeholder="Type your message here"></textarea><br>
-                    <label for="field-massage">What can we do to help?</label><br>
-                    <button type="submit" class="join-button hover"><i>Submit</i></button>
-                </div>
+                    
+                        <input type="submit" class="join-button hover" value="submit" aria-label="Button that sends the form>Submit"><br>
+                    <label for="field-massage">What can we do to help?</label>
+                
                 <p>Address: John Åkerlundsväg 10 A, 19331 Sigtuna.</p>
             </form>
+        </div>
+        <div id="map-wrapper">
+            <iframe id="map" title="mymap"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9917.800215806705!2d17.68142528692349!3d59.616176920096635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x465fba61c842698b%3A0x178aae422637feb2!2sSigtunah%C3%B6jden!5e0!3m2!1sen!2sus!4v1715164379889!5m2!1sen!2sus">
+            </iframe>
+        </div>
         </section>
     </main>
     <footer>

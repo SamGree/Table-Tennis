@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #ffffff;
+    background: #6b78401f;
 }
 
 /*style header h1*/
@@ -42,11 +42,14 @@ h3 {
     height: 40px;
     text-align: right;
     margin: 0 auto;
-    z-index: 2;
     justify-content: center;
     display: flex;
     gap: 10px;
+    font-size: 10px;
 
+}
+.under-line {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 .navigation>li {
@@ -174,6 +177,8 @@ p>span {
 /*form style*/
 .contact-form {
     text-align: center;
+    background: rgb(124, 171, 187);
+    padding-top: 7px;
 }
 
 #contact-title {
@@ -209,10 +214,12 @@ p>span {
 .textarea {
     width: 50%;
     height: 4em;
+    border-radius: 2px;
 }
 
 .join-button {
     border-radius: 2px;
+    width: 20%;
 }
 
 .join-button i:hover {
@@ -396,6 +403,11 @@ footer {
     p>span {
         font-size: 0.8em;
     }
+    /*contact us page style the botton*/
+    .join-button {
+        
+        width: 15%;
+    }
 
 
     #social-media {
@@ -462,6 +474,9 @@ footer {
 
     .textarea {
         width: 33%;
+    }
+    .join-button {
+        width: 10%;
     }
 
     /* Footer Elements */
