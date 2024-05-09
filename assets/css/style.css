@@ -15,6 +15,7 @@ h1 {
     color: #3a3a3a;
     width: 100%;
     text-align: center;
+    margin-top: 2px;
     
 }
 
@@ -258,12 +259,8 @@ footer {
 
 /*small size screen from 320px wide and up*/
 @media screen and (min-width: 320px) {
-    h1 {
-        font-family: 'Montserrat', sans-serif;
-        font-size: 2.2em;
-        color: #3a3a3a;
-        width: 100%;
-        text-align: center;
+    h1 {font-size: 2.2em;
+        margin-top: 2px;
        
     }
 
@@ -345,6 +342,7 @@ footer {
 @media screen and (min-width: 481px) {
     h1 {
         font-size: 3.2em;
+        
        
     }
 
@@ -386,9 +384,7 @@ footer {
         max-height: 20rem;
     }
 
-    .text>p {
-        text-wrap: stable;
-    }
+
 
     #fitness-sport>p {
         font-size: 30px;
@@ -511,6 +507,12 @@ footer {
         font-size: 1.5em;
         line-height: 4px;
     }
+    h2 {
+        font-size: 1.7em;
+    }
+    .text > p {
+        font-size: 1.4em;
+    }
 
     #fitness-sport-two {
         max-height: 40rem;
@@ -539,9 +541,12 @@ footer {
     #contact-title {
         font-size: 2em;
     }
+    .ten {
+        width: 10%;
+    }
 
-    .textarea {
-        width: 32%;
+     .textarea {
+        width: 17%;
     }
 
 
