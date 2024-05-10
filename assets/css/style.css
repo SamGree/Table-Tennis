@@ -167,9 +167,9 @@ p>span {
 
 /*contact us page style third page*/
 #page-contact {
-    background: url(../images/p5.jpg) no-repeat center center;
+    background: url(../images/image-contactpage.jpg) no-repeat center center;
     background-size: 100%;
-    height: 156px;
+    height: 120px;
     width: 100%;
 }
 
@@ -228,6 +228,8 @@ p>span {
     border-radius: 2px;
     width: 20%;
     margin-top: 4px;
+    background: #325832bf;
+    color: #fff;
 }
 
 .join-button:hover {
@@ -340,8 +342,7 @@ footer {
     }
 
     #page-contact {
-        background-size: 100%;
-        height: 14em;
+        height: 152px;
     }
 }
 
@@ -431,8 +432,7 @@ footer {
 
 
     #page-contact {
-        background-size: 100%;
-        height: 20em;
+        height: 233px;
     }
 
     .ten {
@@ -501,7 +501,7 @@ footer {
     }
 
     #page-contact {
-        height: 20em;
+        height: 368px;
     }
 
 }
@@ -548,7 +548,7 @@ footer {
 
     /*style for contact page*/
     #page-contact {
-        height: 25em;
+        height: 30em;
     }
 
     #contact-title {
@@ -629,5 +629,8 @@ footer {
     /*contact us-page*/
     #contact-title {
         font-size: 2.5em;
+    }
+    #page-contact {
+        height: 36em;
     }
 }
