@@ -198,16 +198,12 @@ p>span {
 
 /*style for fotos*/
 #fotos {
-    overflow: hidden;
-    height: auto;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
+    line-height: 0;
 }
 
 #fotos>img {
-    background-position: center;
-    background-repeat: no-repeat;
+    width: 100%;  
+    line-height: 1em;
 }
 
 /*input style*/
@@ -417,6 +413,11 @@ footer {
         padding: 7px 5px;
         font-size: 1.5em;
     }
+    /*gallery page*/
+    #fotos { 
+        column-count: 2;
+        column-gap: 0;
+    }
 
 
     #social-media {
@@ -487,6 +488,11 @@ footer {
     }
     .join-button {
         width: 10%;
+    }
+    /*gallery page*/
+    #fotos { 
+        column-count: 2;
+        column-gap: 0;
     }
 
     /* Footer Elements */
