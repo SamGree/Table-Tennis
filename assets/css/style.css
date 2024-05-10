@@ -16,7 +16,7 @@ h1 {
     width: 100%;
     text-align: center;
     margin-top: 2px;
-    
+
 }
 
 hr {
@@ -49,6 +49,7 @@ h3 {
     font-size: 10px;
 
 }
+
 .under-line {
     border-bottom: 1px solid #3a3a3a;
 }
@@ -70,10 +71,10 @@ h3 {
 
 /*hero-tennis*/
 #hero-tennis {
-    background: url(../images/tennis2.jpg) no-repeat center center;
+    background: url(../images/Prästängshallen\ \(1\)_.jpg) no-repeat center center;
     background-size: 100%;
     margin: 0 auto;
-    height: 6rem;
+    height: 10rem;
     width: 100%;
     background-position-y: 20%;
 }
@@ -202,7 +203,7 @@ p>span {
 }
 
 #fotos>img {
-    width: 100%;  
+    width: 100%;
     line-height: 1em;
 }
 
@@ -264,9 +265,10 @@ footer {
 
 /*small size screen from 320px wide and up*/
 @media screen and (min-width: 320px) {
-    h1 {font-size: 2.2em;
+    h1 {
+        font-size: 2.2em;
         margin-top: 2px;
-       
+
     }
 
     .navigation {
@@ -279,8 +281,8 @@ footer {
 
     /*hero-tennis img first page*/
     #hero-tennis {
-        height: 130px;
-        width: 100%
+        height: 14rem;
+        
     }
 
     h2 {
@@ -346,8 +348,8 @@ footer {
 @media screen and (min-width: 481px) {
     h1 {
         font-size: 3.2em;
-        
-       
+
+
     }
 
     .navigation {
@@ -368,7 +370,7 @@ footer {
     }
 
     #hero-tennis {
-        min-height: 220px;
+        height: 20rem;
     }
 
     h2 {
@@ -403,9 +405,10 @@ footer {
     p>span {
         font-size: 0.8em;
     }
+
     /*contact us page style for form and botton*/
     .contact-form {
-    font-size: 12px;
+        font-size: 12px;
 
     }
 
@@ -413,8 +416,9 @@ footer {
         padding: 7px 5px;
         font-size: 1.5em;
     }
+
     /*gallery page*/
-    #fotos { 
+    #fotos {
         column-count: 2;
         column-gap: 0;
     }
@@ -452,18 +456,18 @@ footer {
     h1 {
         text-align: left;
     }
-    
-    
-     
-    
+
+
+
+
     #hero-tennis {
-        width: 100%;
+       height: 30rem;
     }
 
     .navigation {
         margin-top: 10px;
         gap: 6rem;
-     }
+    }
 
     #fitness-sport {
         line-height: 30px;
@@ -486,11 +490,13 @@ footer {
     .textarea {
         width: 33%;
     }
+
     .join-button {
         width: 10%;
     }
+
     /*gallery page*/
-    #fotos { 
+    #fotos {
         column-count: 2;
         column-gap: 0;
     }
@@ -515,21 +521,23 @@ footer {
 /*Medium screen size min-width 992px wide and up*/
 @media screen and (min-width: 992px) {
     #hero-tennis {
-        height: 375px;
+        height: 42rem;
     }
 
     h1 {
         font-size: 80px;
-        }
+    }
 
     .navigation>li {
         font-size: 1.5em;
         line-height: 4px;
     }
+
     h2 {
         font-size: 1.7em;
     }
-    .text > p {
+
+    .text>p {
         font-size: 1.4em;
     }
 
@@ -560,19 +568,21 @@ footer {
     #contact-title {
         font-size: 2em;
     }
+
     .ten {
-            width: 18%;
-            padding: 8px;
-        
+        width: 18%;
+        padding: 8px;
+
     }
+
     .contact-form {
         font-size: 18px;
     }
 
-     .textarea {
+    .textarea {
         padding: 10px;
     }
-   
+
 
 
     #fotos {
@@ -593,6 +603,9 @@ footer {
 @media screen and (min-width: 1200px) {
     h1 {
         font-size: 110px;
+    }
+    #hero-tennis {
+        height: 42rem;
     }
 
     .navigation {
@@ -632,10 +645,12 @@ footer {
         width: 25%;
         margin: 13px auto;
     }
+
     /*contact us-page*/
     #contact-title {
         font-size: 2.5em;
     }
+
     #page-contact {
         height: 36em;
     }
