@@ -35,6 +35,7 @@ h2 {
 
 h3 {
     margin-top: 10px;
+    font-family: sans-serif;
 }
 
 /*navbar style*/
@@ -110,6 +111,7 @@ h3 {
 
 .text>p {
     text-align: justify;
+    font-family: sans-serif;
 }
 
 #fitness-sport>p {
@@ -118,9 +120,11 @@ h3 {
 }
 
 p>span {
-    font-size: 1.2em;
+    font-size: 1em;
     font-weight: bold;
+    font-family: sans-serif;
 }
+
 
 .days {
     display: flex;
@@ -565,6 +569,7 @@ footer {
 
     .text>p {
         font-size: 1.4em;
+        line-height: 42px;
     }
 
     #fitness-sport-two {
