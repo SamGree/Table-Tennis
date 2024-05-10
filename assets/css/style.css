@@ -71,10 +71,10 @@ h3 {
 
 /*hero-tennis*/
 #hero-tennis {
-    background: url(../images/cover.img.jpg) no-repeat center center;
+    background: url(../images/cover.amotion.img.jpg) no-repeat center center;
     background-size: 100%;
     margin: 0 auto;
-    height: 7rem;
+    height: 6rem;
     width: 100%;
     background-position-y: 20%;
 }
@@ -206,19 +206,27 @@ p>span {
     width: 100%;
     line-height: 1em;
 }
+/*style for form*/
+.box {
+    text-align: center;
+}
 
 /*input style*/
 .ten {
     border-radius: 3px;
     margin-bottom: 6px;
     padding: 2px 3px;
+    border: 1px solid #381f1f;
+
 }
 
 /*style for writing text space*/
 .textarea {
     width: 90%;
     height: 4em;
-    border-radius: 2px;
+    border-radius: 3px;
+    border: 1px solid #381f1f;
+
 }
 
 .join-button {
@@ -373,7 +381,7 @@ footer {
     }
 
     #hero-tennis {
-        height: 12rem;
+        height: 13rem;
     }
 
     h2 {
@@ -465,7 +473,7 @@ footer {
 
 
     #hero-tennis {
-       height: 18rem;
+       height: 20rem;
     }
 
     .navigation {
@@ -512,8 +520,11 @@ footer {
     /* Footer Elements */
     #social-media {
         width: 100%;
+         justify-content: space-evenly;
+            display: flex;
+        }
 
-    }
+    
 
     #social-media i {
         font-size: 100%;
@@ -529,7 +540,7 @@ footer {
 /*Medium screen size min-width 992px wide and up*/
 @media screen and (min-width: 992px) {
     #hero-tennis {
-        height: 24rem;
+        height: 27rem;
     }
 
     h1 {
@@ -620,7 +631,7 @@ footer {
         font-size: 110px;
     }
     #hero-tennis {
-        height: 29rem;
+        height: 33rem;
     }
 
     .navigation {
