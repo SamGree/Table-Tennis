@@ -13,7 +13,7 @@ h1 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5em;
     color: #3a3a3a;
-    width: 100%;
+    width: 90%;
     text-align: center;
     margin-top: 2px;
 
@@ -39,7 +39,7 @@ h3 {
 
 /*navbar style*/
 .navigation {
-    width: 90%;
+    width: 70%;
     height: 40px;
     text-align: right;
     margin: 0 auto;
@@ -71,10 +71,10 @@ h3 {
 
 /*hero-tennis*/
 #hero-tennis {
-    background: url(../images/Prästängshallen\ \(1\)_.jpg) no-repeat center center;
+    background: url(../images/cover.img.jpg) no-repeat center center;
     background-size: 100%;
     margin: 0 auto;
-    height: 10rem;
+    height: 7rem;
     width: 100%;
     background-position-y: 20%;
 }
@@ -272,7 +272,7 @@ footer {
     }
 
     .navigation {
-        width: 100%;
+        width: 70%;
         text-align: center;
         height: 38px;
         font-size: 13px;
@@ -281,7 +281,7 @@ footer {
 
     /*hero-tennis img first page*/
     #hero-tennis {
-        height: 14rem;
+        height: 8rem;
         
     }
 
@@ -354,7 +354,10 @@ footer {
 
     .navigation {
         height: 10px;
-        gap: 4.2rem;
+        gap: 2rem;
+        justify-content: right;
+        padding-left: 8em;
+
     }
 
 
@@ -370,7 +373,7 @@ footer {
     }
 
     #hero-tennis {
-        height: 20rem;
+        height: 12rem;
     }
 
     h2 {
@@ -455,18 +458,23 @@ footer {
     /*hero img*/
     h1 {
         text-align: left;
+        padding-left: 12px;
     }
 
 
 
 
     #hero-tennis {
-       height: 30rem;
+       height: 18rem;
     }
 
     .navigation {
         margin-top: 10px;
-        gap: 6rem;
+        gap: 2.5rem;
+        padding-left: 12em;
+        font-size: 1em;
+
+
     }
 
     #fitness-sport {
@@ -521,11 +529,18 @@ footer {
 /*Medium screen size min-width 992px wide and up*/
 @media screen and (min-width: 992px) {
     #hero-tennis {
-        height: 42rem;
+        height: 24rem;
     }
 
     h1 {
         font-size: 80px;
+    }
+    .navigation {
+        margin-top: 10px;
+        gap: 2.5rem;
+        padding-left: 12em;
+        font-size: 1em;
+        margin-bottom: 1em;
     }
 
     .navigation>li {
@@ -605,13 +620,13 @@ footer {
         font-size: 110px;
     }
     #hero-tennis {
-        height: 42rem;
+        height: 29rem;
     }
 
     .navigation {
-        height: 24px;
-        gap: 10rem;
-        font-size: 27px;
+        height: 2px;
+        gap: 4rem;
+        font-size: 24px;
     }
 
     .navigation>li {
