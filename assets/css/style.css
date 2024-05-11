@@ -173,8 +173,8 @@ p>span {
 /*contact us page style third page*/
 #page-contact {
     background: url(../images/image-contactpage.jpg) no-repeat center center;
-    background-size: 100%;
-    height: 120px;
+    background-size: cover;
+    height: 17rem;
     width: 100%;
 }
 
@@ -185,12 +185,16 @@ p>span {
 /*form style*/
 .contact-form {
     text-align: center;
-    background: rgb(124, 171, 187);
+    background: rgb(124 171 187 / 40%);
     padding-top: 7px;
-    color: rgb(255, 255, 255);
-    font-size: 10px;
+    color: rgb(12, 5, 5);
+    font-size: 11px;
     font-family: sans-serif;
     letter-spacing: 1.5px;
+    border: 1px solid #3a3a3a;
+    height: 14rem;
+    width: 80%;
+    margin: 2px auto;
 }
 
 #contact-title {
@@ -218,7 +222,7 @@ p>span {
 /*input style*/
 .ten {
     border-radius: 3px;
-    margin-bottom: 6px;
+    margin-bottom: 8px;
     padding: 2px 3px;
     border: 1px solid #381f1f;
 
@@ -235,10 +239,11 @@ p>span {
 
 .join-button {
     border-radius: 2px;
-    width: 20%;
+    width: 26%;
     margin-top: 4px;
     background: #325832bf;
     color: #fff;
+    height: 1.5rem;
 }
 
 .join-button:hover {
@@ -351,9 +356,6 @@ footer {
         padding: 5px;
     }
 
-    #page-contact {
-        height: 152px;
-    }
 }
 
 /* media screen from and up*/
@@ -451,11 +453,6 @@ footer {
         padding: 15px;
     }
 
-
-    #page-contact {
-        height: 233px;
-    }
-
     .ten {
         width: 27%;
     }
@@ -478,7 +475,7 @@ footer {
 
 
     #hero-tennis {
-       height: 20rem;
+       height: 21rem;
     }
 
     .navigation {
@@ -537,7 +534,7 @@ footer {
     }
 
     #page-contact {
-        height: 368px;
+        height: 24rem;
     }
 
 }
@@ -594,7 +591,7 @@ footer {
 
     /*style for contact page*/
     #page-contact {
-        height: 30em;
+        height: 30rem;
     }
 
     #contact-title {
@@ -684,6 +681,6 @@ footer {
     }
 
     #page-contact {
-        height: 36em;
+        height: 36rem;
     }
 }

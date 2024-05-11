@@ -1,7 +1,7 @@
 
 # Table Tennis Pro
 Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
-(https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
+![responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
 
 ## Inspiration
 The genesis of Table Tennis Pro stems from a deeply personal source - my son. Over the past two years, witnessing his dedication and triumphs in the world of ping pong has been nothing short of inspiring. His collection of trophies is a testament to his commitment and passion for the sport.
@@ -59,7 +59,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 - I confirmed that the form is work. 
 ## bugs
 
-## Validator testing
+## Page testing
 - HTML
     - no error been found passing through official W3C validator. 
 - CSS     
