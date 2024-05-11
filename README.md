@@ -1,112 +1,124 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome SamGree green,
+# Table Tennis Pro
+Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
+(https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Inspiration
+The genesis of Table Tennis Pro stems from a deeply personal source - my son. Over the past two years, witnessing his dedication and triumphs in the world of ping pong has been nothing short of inspiring. His collection of trophies is a testament to his commitment and passion for the sport.
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **April 26, 2024**
+## Journey
+Motivated by his journey, I decided to immerse myself in the world of table tennis. I joined his club, and what started as a supportive parent soon turned into a personal fascination. The intricacies of focus and technique involved in every match fascinated me, driving me to delve deeper into the sport.
 
-## Gitpod Reminders
+## Table tennis pro
+* this is the topic of the website.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## features
+### navbar.
+* standing in the right side of the page, and web reader can easily travel from home page to another page ex: gallery or contact us page
 
-`python3 -m http.server`
+## main image
+discover the embodiment of passion, devotion and intense emotions captured in this striking image. Table tennis, a sport teeming with vibrant hues victories, and defeats, awaits your exploration .lets this photo i gnite your own journey into the world of table tennis.
+- [Tux, the Linux mascot](/assets/images/cover.amotion.img.jpg)
 
-A blue button should appear to click: _Make Public_,
+## Text
+***important***.
+- Introduction.
+- Health Benefits.
+- Professional Players and Tournaments.
+- Techniques and Strategies.
+- Cultural Significance.
+- Social Aspects.
+- Conclusion
 
-Another blue button should appear to click: _Open Browser_.
+## date and time for training
+* Having a timetable encourages users to manage their time effectively, helping them prioritize activities and allocate time for engaging with the training.
 
-To run a backend Python file, type `python3 app.py` if your Python file is named `app.py`, of course.
+## Second image in main page
 
-A blue button should appear to click: _Make Public_,
+ "In this image, you'll witness the vibrant energy and active engagement that permeates our space. Our venue boasts a spacious, impeccably clean, and aesthetically pleasing environment, welcoming everyone with open doors."
+  [Tux, the Linux mascot](/assets/images/training-time.jpg)
 
-Another blue button should appear to click: _Open Browser_.
+## contact us page
+ - 33333333333333  for image information
 
-By Default, Gitpod gives you superuser security privileges. Therefore, you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+- write to us 
 
-To log into the Heroku toolbelt CLI:
+- in this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
+- here the map that everyone can find the club location very easy.
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+## Gallery page
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you, so do not share it. If you accidentally make it public, you can create a new one with _Regenerate API Key_.
+- "Within these pages, discover a myriad of captivating images showcasing the versatility of ping pong. From impromptu matches in cozy home kitchens to the exhilarating atmosphere of club tournaments, explore the dynamic world of table tennis through my lens."
 
-------
+## Footer
+- "Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels."
 
-## Release History
+## Testing 
+- I confirmed that my website is responsive.
+- I confirmed navbar is all readable.
+- I confirmed that the form is work. 
+## bugs
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+## Validator testing
+- HTML
+    - no error been found passing through official W3C validator.
+- CSS     
+    - No error were found passing through official jigsaw.w3.org
+ validator.
+ - Accessibility
+    - I confirmed the color that the colours and font are used easy to read. by running through the lighthouse in devtool. 
+    ## Unfixed bugs
+    -none
+## Deployment
+- The site was deployed to github page
+## Credit
+- content
+   - The header I bring idea from love running project.
+   - Navigation bar such as (home,contact us and Gallery) look at la-lucha project I some idea from there.
+- Media
+   
+   - The text in main page I use google search from the free website.
+   - First picture in main page 8 pictures from the gallery page is from unsplash.com free website.
+   - Second picture in the main page 4 pictures from the gallery I took It myself from a sigtuna club with permission.
 
-**April 26 2024:** Update node version to 16
 
-**September 20 2023:** Update Python version to 3.9.17.
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
 
-------
 
-## FAQ about the uptime script
 
-**Why have you added this script?**
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
 
-**Can I opt out?**
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
 
-**Anything more?**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
----
 
-Happy coding!
+
+
+
+
+
+
+
+
+
