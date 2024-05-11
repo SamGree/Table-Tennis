@@ -172,7 +172,7 @@ p>span {
 
 /*contact us page style third page*/
 #page-contact {
-    background: url(../images/image-contactpage.jpg) no-repeat center center;
+    background: #381f1f;
     background-size: cover;
     height: 17rem;
     width: 100%;
