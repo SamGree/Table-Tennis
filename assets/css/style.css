@@ -187,7 +187,7 @@ p>span {
     text-align: center;
     background: rgb(124 171 187 / 40%);
     padding-top: 7px;
-    color: rgb(12, 5, 5);
+    color: rgb(247, 247, 247);
     font-size: 11px;
     font-family: sans-serif;
     letter-spacing: 1.5px;
@@ -201,6 +201,7 @@ p>span {
     text-align: center;
     font-size: 0.8em;
     padding-top: 4px;
+    color: rgb(247, 247, 247);
 }
 
 
@@ -238,7 +239,7 @@ p>span {
 }
 
 .join-button {
-    border-radius: 2px;
+    border-radius: 7px;
     width: 26%;
     margin-top: 4px;
     background: #325832bf;
@@ -329,7 +330,7 @@ footer {
 
     #contact-title {
         text-align: center;
-        font-size: 0.9em;
+        font-size: 1rem;
         padding-top: 4px;
     }
 
@@ -433,6 +434,8 @@ footer {
     .join-button {
         padding: 7px 5px;
         font-size: 1.5em;
+        width: 19%;
+        height: 2rem;
     }
 
     /*gallery page*/
@@ -458,7 +461,7 @@ footer {
     }
 
     .textarea {
-        width: 36%;
+        width: 45%;
     }
 }
 
@@ -504,13 +507,30 @@ footer {
     #contact-title {
         font-size: 1.5em;
     }
+    .contact-form {
+        text-align: center;
+        background: rgb(124 171 187 / 40%);
+        padding-top: 7px;
+        color: rgb(247, 247, 247);
+        font-size: 17px;
+        font-family: sans-serif;
+        letter-spacing: 1.5px;
+        border: 1px solid #3a3a3a;
+        height: 18rem;
+        width: 50%;
+        margin: 2px auto;
+    }
+    .ten {
+        width: 32%;
+}
 
     .textarea {
-        width: 33%;
+        width: 50%;
     }
 
     .join-button {
-        width: 10%;
+        width: 26%;
+        height: 2.7rem;
     }
 
     /*gallery page*/
@@ -597,19 +617,33 @@ footer {
     #contact-title {
         font-size: 2em;
     }
+    .contact-form {
+        text-align: center;
+        background: rgb(124 171 187 / 40%);
+        padding-top: 7px;
+        color: rgb(247, 247, 247);
+        font-size: 19px;
+        font-family: sans-serif;
+        letter-spacing: 1.5px;
+        border: 1px solid #3a3a3a;
+        height: 21rem;
+        width: 55%;
+        margin: 2px auto;
+    }
 
     .ten {
-        width: 18%;
+        width: 30%;
         padding: 8px;
 
     }
 
-    .contact-form {
-        font-size: 18px;
-    }
-
     .textarea {
         padding: 10px;
+    }
+    .join-button {
+        width: 20%;
+        height: 2.8rem;
+        border-radius: 12px;
     }
 
 
@@ -679,8 +713,31 @@ footer {
     #contact-title {
         font-size: 2.5em;
     }
+    .contact-form {
+        /* text-align: center; */
+        /* background: rgb(124 171 187 / 40%); */
+        /* padding-top: 7px; */
+        /* color: rgb(247, 247, 247); */
+        font-size: 23px;
+        /* font-family: sans-serif; */
+        /* letter-spacing: 1.5px; */
+        border: 1px solid #3a3a3a;
+        height: 25rem;
+        width: 55%;
+        /* margin: 2px auto; */
+    }
 
     #page-contact {
         height: 36rem;
     }
+    .ten {
+        /* width: 30%; */
+        padding: 13px;
+    }
+    .join-button {
+        /* width: 20%; */
+        height: 3.4rem;
+        /* border-radius: 12px; */
+    }
+
 }
