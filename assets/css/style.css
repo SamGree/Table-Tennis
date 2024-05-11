@@ -415,6 +415,7 @@ footer {
 
     .days>p {
         height: 30px;
+        width: 80%;
     }
 
     p>span {

@@ -61,7 +61,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 
 ## Validator testing
 - HTML
-    - no error been found passing through official W3C validator.
+    - no error been found passing through official W3C validator. 
 - CSS     
     - No error were found passing through official jigsaw.w3.org
  validator.
@@ -75,11 +75,14 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 - content
    - The header I bring idea from love running project.
    - Navigation bar such as (home,contact us and Gallery) look at la-lucha project I some idea from there.
+   - my
+   - I used slack when I'm Really stuck like Challenge Assist or or other student like ex: vernell quite helpful
 - Media
    
    - The text in main page I use google search from the free website.
    - First picture in main page 8 pictures from the gallery page is from unsplash.com free website.
    - Second picture in the main page 4 pictures from the gallery I took It myself from a sigtuna club with permission.
+   - I have use chatGPT for better explanation to make shorter text and rich meaning text.
 
 
 
