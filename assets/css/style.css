@@ -161,8 +161,6 @@ p>span {
 #map-wrapper {
     width: 100%;
     height: 200px;
-    margin-top: 8px;
-
 }
 
 #map {
@@ -172,7 +170,7 @@ p>span {
 
 /*contact us page style third page*/
 #page-contact {
-    background: #381f1f;
+    background: url(../images/last-img-1.jpg);
     background-size: cover;
     height: 17rem;
     width: 100%;
@@ -191,7 +189,7 @@ p>span {
     font-size: 11px;
     font-family: sans-serif;
     letter-spacing: 1.5px;
-    border: 1px solid #3a3a3a;
+  
     height: 14rem;
     width: 80%;
     margin: 2px auto;
@@ -362,7 +360,7 @@ footer {
 /* media screen from and up*/
 @media screen and (min-width: 481px) {
     h1 {
-        font-size: 3.2em;
+        font-size: 2.6em;
 
 
     }
@@ -455,6 +453,9 @@ footer {
         display: inline-block;
         padding: 15px;
     }
+    #page-contact {
+        height: 24rem;
+    }
 
     .ten {
         width: 27%;
@@ -515,7 +516,6 @@ footer {
         font-size: 17px;
         font-family: sans-serif;
         letter-spacing: 1.5px;
-        border: 1px solid #3a3a3a;
         height: 18rem;
         width: 50%;
         margin: 2px auto;
@@ -545,8 +545,7 @@ footer {
          justify-content: space-evenly;
             display: flex;
         }
-
-    
+ 
 
     #social-media i {
         font-size: 100%;
@@ -554,7 +553,7 @@ footer {
     }
 
     #page-contact {
-        height: 24rem;
+        height: 37rem;
     }
 
 }
@@ -566,7 +565,7 @@ footer {
     }
 
     h1 {
-        font-size: 80px;
+        font-size: 68px;
     }
     .navigation {
         margin-top: 10px;
@@ -611,7 +610,7 @@ footer {
 
     /*style for contact page*/
     #page-contact {
-        height: 30rem;
+        height: 44rem;
     }
 
     #contact-title {
@@ -665,10 +664,10 @@ footer {
 /*Medium screen min-width 1200px wide and up example smart phone*/
 @media screen and (min-width: 1200px) {
     h1 {
-        font-size: 110px;
+        font-size: 80px;
     }
     #hero-tennis {
-        height: 33rem;
+        height: 43rem;
     }
 
     .navigation {
@@ -728,7 +727,7 @@ footer {
     }
 
     #page-contact {
-        height: 36rem;
+        height: 50rem;
     }
     .ten {
         /* width: 30%; */
