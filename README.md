@@ -1,7 +1,7 @@
 
 # Table Tennis Pro
 Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
-![responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
+[responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
 
 ## Inspiration
 The genesis of Table Tennis Pro stems from a deeply personal source - my son. Over the past two years, witnessing his dedication and triumphs in the world of ping pong has been nothing short of inspiring. His collection of trophies is a testament to his commitment and passion for the sport.
@@ -39,8 +39,8 @@ discover the embodiment of passion, devotion and intense emotions captured in th
   [Tux, the Linux mascot](/assets/images/training-time.jpg)
 
 ## contact us page
- - 33333333333333  for image information
-
+ - This page has background image.
+  [Tux, the Linux mascot](/assets/images/last-img-1.jpg).
 - write to us 
 
 - in this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
@@ -57,30 +57,32 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 - I confirmed that my website is responsive.
 - I confirmed navbar is all readable.
 - I confirmed that the form is work. 
-## bugs
 
 ## Page testing
 - HTML
     - no error been found passing through official W3C validator. 
+    [Tux, the Linux mascot](/assets/images/index.html-validate.png)
 - CSS     
     - No error were found passing through official jigsaw.w3.org
- validator.
+ validator.[Tux, the Linux mascot](/assets/images/css-validate.new.png)
  - Accessibility
     - I confirmed the color that the colours and font are used easy to read. by running through the lighthouse in devtool. 
     ## Unfixed bugs
     -none
 ## Deployment
-- The site was deployed to github page
+- The site was deployed to github page.steps to deyploy.
+   - In github repository to setting tab.
+   - From the source section drop down menu, select the master branch.
+   -when you select the master branch, the page will automatically refreshed with detailed ribbon display to indicate the successful deployment.
 ## Credit
 - content
    - The header I bring idea from love running project.
-   - Navigation bar such as (home,contact us and Gallery) look at la-lucha project I some idea from there.
-   - my
-   - I used slack when I'm Really stuck like Challenge Assist or or other student like ex: vernell quite helpful
+   - Navigation bar such as (home,contact us and Gallery) look at la-lucha project I bring some idea from there.
+   - I used slack when I'm Really stuck like Challenge Assist or other student like ex: vernell quite helpful
 - Media
    
-   - The text in main page I use google search from the free website.
-   - First picture in main page 8 pictures from the gallery page is from unsplash.com free website.
+   - The text in main page I use google search from the free website .
+   - First picture in main page 8 pictures from the gallery page is from unsplash.com free website https://unsplash.com/.
    - Second picture in the main page 4 pictures from the gallery I took It myself from a sigtuna club with permission.
    - I have use chatGPT for better explanation to make shorter text and rich meaning text.
 
