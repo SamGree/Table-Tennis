@@ -1,7 +1,7 @@
 
 # Table Tennis Pro
 Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
-[responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
+![responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
 
 ## Inspiration
 The genesis of Table Tennis Pro stems from a deeply personal source - my son. Over the past two years, witnessing his dedication and triumphs in the world of ping pong has been nothing short of inspiring. His collection of trophies is a testament to his commitment and passion for the sport.
@@ -22,7 +22,7 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 
 ## main image
 discover the embodiment of passion, devotion and intense emotions captured in this striking image. Table tennis, a sport teeming with vibrant hues victories, and defeats, awaits your exploration .lets this photo i gnite your own journey into the world of table tennis.
-- [Tux, the Linux mascot](/assets/images/cover.amotion.img.jpg)
+- ![Tux, the Linux mascot](/assets/images/cover.amotion.img.jpg)
 
 ## Text
 ***important***.
@@ -40,11 +40,11 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 ## Second image in main page
 
  "In this image, you'll witness the vibrant energy and active engagement that permeates our space. Our venue boasts a spacious, impeccably clean, and aesthetically pleasing environment, welcoming everyone with open doors."
-  [Tux, the Linux mascot](/assets/images/training-time.jpg)
+  ![Tux, the Linux mascot](/assets/images/training-time.jpg)
 
 ## contact us page
  - This page has background image.
-  [Tux, the Linux mascot](/assets/images/last-img-1.jpg).
+  ![Tux, the Linux mascot](/assets/images/last-img-1.jpg).
 - write to us 
 
 - in this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
@@ -65,13 +65,13 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 ## Page testing
 - HTML
     - no error been found passing through official W3C validator. 
-    [Tux, the Linux mascot](/assets/images/index.html-validate.png)
+    ![Tux, the Linux mascot](/assets/images/index.html-validate.png)
 - CSS     
     - No error were found passing through official jigsaw.w3.org
-      validator.[Tux, the Linux mascot](/assets/images/css-validate.new.png)
+      validator.![Tux, the Linux mascot](/assets/images/css-validate.new.png)
 
  - Accessibility.
-    [Tux, the Linux mascot](/assets/images/lighthouse.img.png)
+    ![Tux, the Linux mascot](/assets/images/lighthouse.img.png)
 
     - I confirmed the colors and fonts are used that easy to read. by running through the lighthouse in devtool. 
     ## Unfixed bugs
