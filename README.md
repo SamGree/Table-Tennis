@@ -12,7 +12,11 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 ## Table tennis pro
 * this is the topic of the website.
 
-## features
+## Future Features:
+- main page.
+- Gallery.
+- Live chatbot.
+. Live GPS location of the club.
 ### navbar.
 * standing in the right side of the page, and web reader can easily travel from home page to another page ex: gallery or contact us page
 
@@ -64,9 +68,12 @@ discover the embodiment of passion, devotion and intense emotions captured in th
     [Tux, the Linux mascot](/assets/images/index.html-validate.png)
 - CSS     
     - No error were found passing through official jigsaw.w3.org
- validator.[Tux, the Linux mascot](/assets/images/css-validate.new.png)
- - Accessibility
-    - I confirmed the color that the colours and font are used easy to read. by running through the lighthouse in devtool. 
+      validator.[Tux, the Linux mascot](/assets/images/css-validate.new.png)
+
+ - Accessibility.
+    [Tux, the Linux mascot](/assets/images/lighthouse.img.png)
+
+    - I confirmed the colors and fonts are used that easy to read. by running through the lighthouse in devtool. 
     ## Unfixed bugs
     -none
 ## Deployment
@@ -85,6 +92,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
    - First picture in main page 8 pictures from the gallery page is from unsplash.com free website https://unsplash.com/.
    - Second picture in the main page 4 pictures from the gallery I took It myself from a sigtuna club with permission.
    - I have use chatGPT for better explanation to make shorter text and rich meaning text.
+   - Text of the first page I used this webtite,(everyoneactive.com).
 
 
 
