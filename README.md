@@ -1,7 +1,6 @@
 
 # Table Tennis Pro
 Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
-![responsive mockup](https://ui.dev/amiresponsive?url=https://samgree.github.io/Table-Tennis/)
 
 ## Inspiration
 The genesis of Table Tennis Pro stems from a deeply personal source - my son. Over the past two years, witnessing his dedication and triumphs in the world of ping pong has been nothing short of inspiring. His collection of trophies is a testament to his commitment and passion for the sport.
@@ -52,7 +51,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 
 ## Gallery page
 
-- "Within these pages, discover a myriad of captivating images showcasing the versatility of ping pong. From impromptu matches in cozy home kitchens to the exhilarating atmosphere of club tournaments, explore the dynamic world of table tennis through my lens."
+- In essence, these images encapsulate the essence of ping pong as a sport that is not only easy to pick up but also offers endless opportunities for enjoyment, recreation, and community engagement."
 
 ## Footer
 - "Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels."
@@ -71,6 +70,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
       validator.![Tux, the Linux mascot](/assets/images/css-validate.new.png)
 
  - Accessibility.
+
     ![Tux, the Linux mascot](/assets/images/lighthouse.img.png)
 
     - I confirmed the colors and fonts are used that easy to read. by running through the lighthouse in devtool. 
@@ -92,7 +92,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
    - First picture in main page 8 pictures from the gallery page is from unsplash.com free website https://unsplash.com/.
    - Second picture in the main page 4 pictures from the gallery I took It myself from a sigtuna club with permission.
    - I have use chatGPT for better explanation to make shorter text and rich meaning text.
-   - Text of the first page I used this webtite,(everyoneactive.com).
+   - Text of the first page I used this website https://www.everyoneactive.com
 
 
 

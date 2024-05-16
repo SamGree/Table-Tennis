@@ -240,9 +240,10 @@ p>span {
     border-radius: 7px;
     width: 26%;
     margin-top: 4px;
-    background: #325832bf;
+    background: #a53c58bf;
     color: #fff;
     height: 1.5rem;
+    text-transform: capitalize;
 }
 
 .join-button:hover {
