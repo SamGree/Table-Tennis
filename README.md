@@ -10,6 +10,7 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 
 ## Table tennis pro
 * this is the topic of the website.
+-![Tux, the Linux mascot](/assets/images/Screenshot.firstpage%20.png)
 
 ## Future Features:
 - main page.
@@ -23,18 +24,12 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 discover the embodiment of passion, devotion and intense emotions captured in this striking image. Table tennis, a sport teeming with vibrant hues victories, and defeats, awaits your exploration .lets this photo i gnite your own journey into the world of table tennis.
 - ![Tux, the Linux mascot](/assets/images/cover.amotion.img.jpg)
 
-## Text
-***important***.
-- Introduction.
-- Health Benefits.
-- Professional Players and Tournaments.
-- Techniques and Strategies.
-- Cultural Significance.
-- Social Aspects.
-- Conclusion
+
 
 ## date and time for training
 * Having a timetable encourages users to manage their time effectively, helping them prioritize activities and allocate time for engaging with the training.
+
+-![Tux, the Linux mascot](/assets/images/first.diagram.png)
 
 ## Second image in main page
 
@@ -42,12 +37,11 @@ discover the embodiment of passion, devotion and intense emotions captured in th
   ![Tux, the Linux mascot](/assets/images/training-time.jpg)
 
 ## contact us page
- - This page has background image.
-  ![Tux, the Linux mascot](/assets/images/last-img-1.jpg).
-- write to us 
-
-- in this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
-- here the map that everyone can find the club location very easy.
+ - This page has background darck color.
+- In this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
+- Here the map that everyone can find the club location very easy.
+-
+![Tux, the Linux mascot](/assets/images/second.diagram.2.png)
 
 ## Gallery page
 
@@ -84,8 +78,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 ## Credit
 - content
    - The header I bring idea from love running project.
-   - Navigation bar such as (home,contact us and Gallery) look at la-lucha project I bring some idea from there.
-   - I used slack when I'm Really stuck like Challenge Assist or other student like ex: vernell quite helpful
+   - I used slack when I'm Really stuck like Challenge Assist.
 - Media
    
    - The text in main page I use google search from the free website .
