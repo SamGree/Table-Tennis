@@ -45,10 +45,12 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 
 ## Gallery page
 
-- In essence, these images encapsulate the essence of ping pong as a sport that is not only easy to pick up but also offers endless opportunities for enjoyment, recreation, and community engagement."
+- In essence, these images encapsulate the essence of ping pong as a sport that is not only easy to pick up but also offers endless opportunities for enjoyment, recreation, and community engagement.
+
+- ![Tux, the Linux mascot](/assets/images/third.diagram.png)
 
 ## Footer
-- "Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels."
+- Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels.
 
 ## Testing 
 - I confirmed that my website is responsive.
@@ -79,6 +81,8 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 - content
    - The header I bring idea from love running project.
    - I used slack when I'm Really stuck like Challenge Assist.
+   -  My mentor Luke Buchanan, quite helpful to correct me and make my website look better.
+   
 - Media
    
    - The text in main page I use google search from the free website .
