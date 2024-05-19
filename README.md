@@ -10,7 +10,7 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 
 ## Table tennis pro
 * this is the topic of the website.
--![Tux, the Linux mascot](/assets/images/Screenshot.firstpage%20.png)
+-![Tux, the Linux mascot](/assets/images/responsive.png)
 
 ## Future Features:
 - main page.
@@ -21,9 +21,7 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 * standing in the right side of the page, and web reader can easily travel from home page to another page ex: gallery or contact us page
 
 ## main image
-discover the embodiment of passion, devotion and intense emotions captured in this striking image. Table tennis, a sport teeming with vibrant hues victories, and defeats, awaits your exploration .lets this photo i gnite your own journey into the world of table tennis.
-- ![Tux, the Linux mascot](/assets/images/cover.amotion.img.jpg)
-
+- The first picture in main page features experienced coaches and players who are dedicated to teaching ping pong. They are ready to do whatever it takes to help others learn and excel in the game.
 
 
 ## date and time for training
