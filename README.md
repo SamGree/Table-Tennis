@@ -29,7 +29,7 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 ## date and time for training
 * Having a timetable encourages users to manage their time effectively, helping them prioritize activities and allocate time for engaging with the training.
 
--![Tux, the Linux mascot](/assets/images/first.diagram.png)
+
 
 ## Second image in main page
 
@@ -41,16 +41,48 @@ discover the embodiment of passion, devotion and intense emotions captured in th
 - In this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
 - Here the map that everyone can find the club location very easy.
 -
-![Tux, the Linux mascot](/assets/images/second.diagram.2.png)
+
 
 ## Gallery page
 
 - In essence, these images encapsulate the essence of ping pong as a sport that is not only easy to pick up but also offers endless opportunities for enjoyment, recreation, and community engagement.
 
-- ![Tux, the Linux mascot](/assets/images/third.diagram.png)
+
 
 ## Footer
 - Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels.
+
+## Design 
+
+### Wireframes
+- Home
+    - ![Tux, the Linux mascot](/assets/images/first.diagram.png)
+
+    - contact us
+
+    - ![Tux, the Linux mascot](/assets/images/second.diagram.2.png)
+
+    -Gallery
+
+    - ![Tux, the Linux mascot](/assets/images/third.diagram.png)
+
+    ## Mobile view
+    - main page
+     - ![Tux, the Linux mascot](/assets/images/wireframes.mobile.1.png)
+
+
+    - contact us 
+    - ![Tux, the Linux mascot](/assets/images/wireframes.contact.pagemobile.1.png)
+
+    -Gallery
+     - ![Tux, the Linux mascot](/assets/images/Wireframes.gallery.mobile.png)
+
+
+
+
+
+
+
 
 ## Testing 
 - I confirmed that my website is responsive.
