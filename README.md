@@ -74,20 +74,14 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 
     ## Mobile view
     - main page
-     - ![Tux, the Linux mascot](/assets/images/wireframes.mobile.1.png)
+     - ![Tux, the Linux mascot](/assets/images/main.mobile.png)
 
 
     - contact us 
-    - ![Tux, the Linux mascot](/assets/images/wireframes.contact.pagemobile.1.png)
+    - ![Tux, the Linux mascot](/assets/images/contact.mobile.png)
 
     -Gallery
-     - ![Tux, the Linux mascot](/assets/images/Wireframes.gallery.mobile.png)
-
-
-
-
-
-
+     - ![Tux, the Linux mascot](/assets/images/gallery.mobile.png)
 
 
 ## Testing 
