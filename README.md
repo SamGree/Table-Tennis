@@ -16,12 +16,13 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 - main page.
 - Gallery.
 - Live chatbot.
-. Live GPS location of the club.
+- Live GPS location of the club.
 ### navbar.
 * standing in the right side of the page, and web reader can easily travel from home page to another page ex: gallery or contact us page
 
 ## main image
 - The first picture in main page features experienced coaches and players who are dedicated to teaching ping pong. They are ready to do whatever it takes to help others learn and excel in the game.
+![Tux, the Linux mascot](/assets/images/group.of.sigtuna.trainers.jpg)
 
 
 ## date and time for training
@@ -37,18 +38,25 @@ Motivated by his journey, I decided to immerse myself in the world of table tenn
 ## contact us page
  - This page has background darck color.
 - In this section that where user can contact us by writing there name, e-mail and message if they want to join the club.
+- ![Tux, the Linux mascot](/assets/images/contact-us.png)
+
+
 - Here the map that everyone can find the club location very easy.
--
+-  ![Tux, the Linux mascot](/assets/images/map-on.png) 
+
+
 
 
 ## Gallery page
 
 - In essence, these images encapsulate the essence of ping pong as a sport that is not only easy to pick up but also offers endless opportunities for enjoyment, recreation, and community engagement.
-
-
+- ![Tux, the Linux mascot](/assets/images/gallery-photo.png)![Tux, the Linux mascot](/assets/images/gallery-photo.2.png)
 
 ## Footer
 - Users have the option to access various social media platforms directly from our site. Simply click on the respective icons, such as Facebook, and they will seamlessly open in a new tab, allowing for easy navigation and engagement across different channels.
+
+
+![Tux, the Linux mascot](/assets/images/footer.last.png)
 
 ## Design 
 
