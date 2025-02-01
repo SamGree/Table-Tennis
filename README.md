@@ -1,5 +1,5 @@
 
-# Table Tennis Pro
+# Table Tennis Pro .
 Welcome to Table Tennis Pro! This website is dedicated to all the enthusiasts of table tennis, from beginners to pros.
 
 ## Inspiration
